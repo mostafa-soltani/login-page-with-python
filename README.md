@@ -1,2 +1,22 @@
-# login-page-with-python
-project for login with live data for saving username and password with Tkinter and pyside6 
+# Project Title
+login page with python - Tkinter
+
+## Description
+a simple login page that can be used for everything
+ and have a live database to see if user exsist or not 
+
+## Features
+- Tkinter
+- database
+- csv
+- open handle
+
+## Libaray Used
+- csv
+- Tkinter
+
+## Results
+a simple asnd clean login page
+
+## How to Run
+python simple_login.py
